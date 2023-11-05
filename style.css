@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(30, 7, 50);
+    }
+header{background-color: black;color:white; font-size: 15px;
+}
+.logo { padding: 5 px; margin: 5 px; 
+}
+header a { text-decoration: none;
+}
+h1 { text-align: center; font-size: 170 px; color: orangered;
+ background-color:rgb(0, 200, 255) ; 
+ border-radius: 30 px; padding: 15 px; text-transform: uppercase
+ }
+footer p {background-color: white; color:black;
+ border-radius: 30 px;padding: 15 px; margin: 15 px;}
+ footer { background-color: RosyBrown;padding: 10px;
+}
+  nav {margin: 20px; padding: 15px; border: 5px solid Gold;
+  border-radius: 15px;
+  }
+  nav a {margin: 20px; font-size:20px; text-decoration: none;
+  color:Maroon; border: 2px solid orange
+  border-radius: 20px; padding: 10px; text-align: center;
+  }
+  main p {margin: 20px;  padding: 10px;  font-size:20px;
+   background:rgb(30, 210, 159); color:black;
+  }   
+  h2 {font-size:20px; text-decoration: none;  color:orangered}
+  a:link {background-color:RosyBrown; color:Maroon; 
+  padding: 14px; margin:20px; text-align: center;
+  text-decoration: none;  display: inline-block;border-radius: 20px;
+}
+table {border-collapse: collapse;
+border: 2px solid lightgrey;
+margin: 10px; 
+text-align: center;
+font-size: 12px;
+}
+tr {color: white;border: 2px solid lightgray;
+}
+td {padding: 5px; border: 2px solid lightgray;
+}
